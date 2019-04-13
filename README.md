@@ -14,7 +14,7 @@ The app currently just loads and runs a single iris example. We will soon be ext
 
 ### TODO
 - Add tfjs support
-- Integrate with IMLY model zoo(hyperlink)
+- Integrate with [IMLY model zoo](http://bit.ly/imly-google-sheets)
 
 #### [Live demo](https://onnx-web-validator.herokuapp.com/)
 
